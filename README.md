@@ -24,12 +24,13 @@
 | :--- | :--- | :--- | :--- |
 | **기본 노트북** | 보행환경 8클래스·두 단계 학습 | [📁 열기](safewalk_train_v8_fixed%20%281%29.ipynb) | [📖 설명](docs/revisions/step-1.md) |
 | **실험 구성과 기록** | 설정·이전 실행 노트북·에폭 지표 | [📁 열기](pbl2-main) | [📖 설명](docs/revisions/step-2.md) |
-| **중간·결과 보고서** | 프로젝트 목표·구현·성과·한계 | [📁 열기](%EB%B3%B4%EA%B3%A0%EC%84%9C) | [📖 설명](보고서/README.md) |
-
-
 
 
 <a name="overview"></a>
+
+## 👨‍💻 제가 구현한 부분
+
+보행환경 8개 클래스의 데이터셋 매핑·통합, YOLO 학습·평가 노트북과 실험 기록을 정리했습니다. 이 저장소는 제가 수행한 객체 탐지 모델 개발 범위를 다룹니다.
 
 ## ✨ 주요 개발 내용
 
@@ -189,6 +190,15 @@ COCO 다운로드 분기는 `fiftyone.zoo`를 사용하지만 첫 설치 셀의 
 </div>
 
 
-## 📑 보고서
 
-[**프로젝트 보고서 열기 →**](보고서/README.md)
+
+<details>
+<summary>🧹 공개 자료 정리 기록</summary>
+
+| 검수 대상 | 연결 자료 | 상세·이번 비교 |
+| :--- | :--- | :--- |
+| **기존 코드와 자료** | [📁 검수 자료](docs/publication-review) | [📖 정리 내용](docs/publication-review/item-1.md) · [🔎 파일 비교](docs/publication-review/공개파일변경.json) |
+
+[🗂️ 전체 차수와 자료](docs/REVISION_INDEX.md)
+
+</details>

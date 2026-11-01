@@ -12,8 +12,13 @@
 | **실험 구성과 기록** | 클래스별 설정·이전 실행 노트북·에폭별 학습 지표 | [📁 열기](../pbl2-main) | [📖 상세](revisions/step-2.md) · [🔎 기존 설명](versions/stage-1.md) |
 
 
-## 📑 보고서
 
-[보고서 전체와 원문 열기](../보고서/README.md)
 
-- [중간·결과 보고서](../%EB%B3%B4%EA%B3%A0%EC%84%9C) — 프로젝트 목표·구현·성과·한계
+<details>
+<summary>🧹 공개 자료 정리 기록</summary>
+
+| 검수 대상 | 연결 자료 | 상세·이번 비교 |
+| :--- | :--- | :--- |
+| **기존 코드와 자료** | [📁 검수 자료](publication-review) | [📖 정리 내용](publication-review/item-1.md) · [🔎 파일 비교](publication-review/공개파일변경.json) |
+
+</details>
